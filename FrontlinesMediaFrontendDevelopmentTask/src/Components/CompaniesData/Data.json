@@ -1,0 +1,298 @@
+[
+    {
+        "id": 1,
+        "name": "TechNova Solutions",
+        "industry": "Software",
+        "location": "Bangalore",
+        "employees": 250,
+        "website": "https://technova.example.com"
+    },
+    {
+        "id": 2,
+        "name": "GreenLeaf Agro",
+        "industry": "Agriculture",
+        "location": "Hyderabad",
+        "employees": 120,
+        "website": "https://greenleafagro.example.com"
+    },
+    {
+        "id": 3,
+        "name": "SkyNet Systems",
+        "industry": "AI & Robotics",
+        "location": "Pune",
+        "employees": 350,
+        "website": "https://skynet.example.com"
+    },
+    {
+        "id": 4,
+        "name": "BlueOcean Logistics",
+        "industry": "Transportation",
+        "location": "Chennai",
+        "employees": 500,
+        "website": "https://blueoceanlogistics.example.com"
+    },
+    {
+        "id": 5,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 6,
+        "name": "TechNova Solutions",
+        "industry": "Software",
+        "location": "Bangalore",
+        "employees": 250,
+        "website": "https://technova.example.com"
+    },
+    {
+        "id": 7,
+        "name": "GreenLeaf Agro",
+        "industry": "Agriculture",
+        "location": "Hyderabad",
+        "employees": 120,
+        "website": "https://greenleafagro.example.com"
+    },
+    {
+        "id": 8,
+        "name": "SkyNet Systems",
+        "industry": "AI & Robotics",
+        "location": "Pune",
+        "employees": 350,
+        "website": "https://skynet.example.com"
+    },
+    {
+        "id": 9,
+        "name": "BlueOcean Logistics",
+        "industry": "Transportation",
+        "location": "Chennai",
+        "employees": 500,
+        "website": "https://blueoceanlogistics.example.com"
+    },
+    {
+        "id": 10,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 11,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 12,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 13,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 14,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 15,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 16,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 17,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 18,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 19,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 20,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 21,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 22,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 23,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 24,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 25,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 26,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 27,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 28,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 29,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 30,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 31,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 32,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 33,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 34,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 35,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 36,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    },
+    {
+        "id": 37,
+        "name": "MediCare Labs",
+        "industry": "Healthcare",
+        "location": "Delhi",
+        "employees": 200,
+        "website": "https://medicarelabs.example.com"
+    }
+]

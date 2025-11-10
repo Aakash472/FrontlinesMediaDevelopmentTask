@@ -1,0 +1,26 @@
+{
+  "name": "frontlinesmediadevelopmenttaskbackend",
+  "version": "1.0.0",
+  "description": "Designed Backend for Frontlines media for fetching data to display in frontend",
+  "keywords": [
+    "Backend",
+    "FrontlinesMedia",
+    "FrontendDesigning",
+    "FetchingData"
+  ],
+  "license": "ISC",
+  "author": "Frontlines Media",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongodb": "^7.0.0",
+    "mongoose": "^8.19.3"
+  }
+}
